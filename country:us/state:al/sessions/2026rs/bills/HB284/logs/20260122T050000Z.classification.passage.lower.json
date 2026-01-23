@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 116",
+    "date": "2026-01-22T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB284"
+}

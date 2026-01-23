@@ -19,6 +19,26 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Motion to Reconsider Local Application Adopted",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:38:17Z"
+      }
+    },
+    {
+      "description": "Motion in Writing Adopted",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:38:17Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in Second House (Local Legislation )",
       "date": "2026-01-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -159,6 +179,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:39:50Z"
+    "logs_latest_update": "2026-01-23T12:38:17Z"
   }
 }

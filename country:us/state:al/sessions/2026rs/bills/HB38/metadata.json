@@ -31,6 +31,50 @@
       }
     },
     {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 141",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:38:17Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 140",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:38:17Z"
+      }
+    },
+    {
+      "description": "Ports, Waterways and Intermodal Transit  Engrossed Substitute Offered (Ports, Waterways and Intermodal Transit)",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:38:17Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:38:17Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Ports, Waterways and Intermodal Transit)",
       "date": "2026-01-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -108,7 +152,7 @@
       "classification": ""
     },
     {
-      "note": "Reported Out of Committee House of Origin",
+      "note": "Motion to Adopt - Adopted Roll Call 140",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/6Y5FDZ1-1.pdf",
@@ -171,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:35:51Z"
+    "logs_latest_update": "2026-01-23T12:38:17Z"
   }
 }
