@@ -19,6 +19,16 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Reported Out of Committee Second House (Boards, Agencies and Commissions)",
+      "date": "2026-01-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:47:28Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in Second House (Boards, Agencies and Commissions)",
       "date": "2026-01-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -206,6 +216,17 @@
       "classification": ""
     },
     {
+      "note": "Reported Out of Committee Second House",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/PS974RG-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Givhan motion to Adopt - Adopted Roll Call 59",
       "links": [
         {
@@ -229,6 +250,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "Fiscal Note: Reported by Second Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-2JVWBIS-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-2JVWBIS-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
@@ -260,7 +303,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21394707"
+    "AL_BILL_ID": "22164035"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -269,6 +312,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:39:50Z"
+    "logs_latest_update": "2026-01-29T12:47:28Z"
   }
 }

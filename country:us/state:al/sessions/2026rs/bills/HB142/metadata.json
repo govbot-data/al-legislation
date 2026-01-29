@@ -31,6 +31,16 @@
       }
     },
     {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-01-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:47:28Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in Second House (Mobile County Legislation)",
       "date": "2026-01-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -164,7 +174,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21320542"
+    "AL_BILL_ID": "22163987"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -173,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:38:17Z"
+    "logs_latest_update": "2026-01-29T12:47:28Z"
   }
 }

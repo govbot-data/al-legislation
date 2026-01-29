@@ -31,18 +31,38 @@
       }
     },
     {
-      "description": "Pending Committee Action in House of Origin (County and Municipal Government)",
-      "date": "2025-12-08T05:00:00+00:00",
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-01-28T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-08T21:32:19Z"
+        "log_file_created": "2026-01-29T12:47:28Z"
+      }
+    },
+    {
+      "description": "County and Municipal Government 1st Amendment (County and Municipal Government)",
+      "date": "2026-01-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:47:28Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (County and Municipal Government)",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:47:28Z"
       }
     },
     {
       "description": "Read for the first time and referred to the Senate Committee on County and Municipal Government",
-      "date": "2025-12-08T05:00:00+00:00",
+      "date": "2026-01-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-1",
@@ -50,7 +70,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-08T21:32:19Z"
+        "log_file_created": "2026-01-29T12:47:28Z"
       }
     }
   ],
@@ -76,9 +96,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "County and Municipal Government 1st Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/CXCNDWQ-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-7BYT7VE-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-7BYT7VE-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -87,7 +141,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "20925746"
+    "AL_BILL_ID": "22163576"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -96,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:32:19Z"
+    "logs_latest_update": "2026-01-29T12:47:28Z"
   }
 }
