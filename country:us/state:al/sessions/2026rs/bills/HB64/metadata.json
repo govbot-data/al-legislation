@@ -31,6 +31,38 @@
       }
     },
     {
+      "description": "Ready to Enroll",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:44:17Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 175",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:44:17Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:44:17Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Local Legislation )",
       "date": "2026-01-27T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -171,6 +203,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB64-enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -191,6 +234,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:40:26Z"
+    "logs_latest_update": "2026-01-30T12:44:17Z"
   }
 }

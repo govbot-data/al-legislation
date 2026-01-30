@@ -31,6 +31,16 @@
       }
     },
     {
+      "description": "Read for the Second Time and placed on the Calendar (Judiciary)",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:44:17Z"
+      }
+    },
+    {
       "description": "Reported Out of Committee House of Origin",
       "date": "2026-01-28T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -118,6 +128,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-29T12:47:28Z"
+    "logs_latest_update": "2026-01-30T12:44:17Z"
   }
 }
