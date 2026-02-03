@@ -29,6 +29,16 @@
       }
     },
     {
+      "description": "Chambliss Local Certification Resolution - Adopted Roll Call 191",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-03T12:51:19Z"
+      }
+    },
+    {
       "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 190",
       "date": "2026-01-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -242,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:44:17Z"
+    "logs_latest_update": "2026-02-03T12:51:19Z"
   }
 }
