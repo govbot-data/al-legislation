@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "HB178",
-  "title": "Public K-12 education; process for the consolidation of city schools and city boards of education provided; adoption of rules by State Board of Education required",
+  "title": "Public K-12 education; process for the consolidation of city school systems provided",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -18,6 +18,72 @@
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 238",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:50:58Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 237",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:50:58Z"
+      }
+    },
+    {
+      "description": "Garrett 1st Amendment Offered",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:50:58Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 236",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:50:58Z"
+      }
+    },
+    {
+      "description": "Ways and Means Education 1st Substitute Offered (Ways and Means Education)",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:50:58Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:50:58Z"
+      }
+    },
     {
       "description": "Read for the Second Time and placed on the Calendar (Ways and Means Education)",
       "date": "2026-01-21T05:00:00+00:00",
@@ -96,7 +162,29 @@
       "classification": ""
     },
     {
-      "note": "Ways and Means Education 1st Substitute",
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB178-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 237",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/V7RWFLL-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 236",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/11I5AL3-1.pdf",
@@ -139,7 +227,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21395455"
+    "AL_BILL_ID": "22163906"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -148,6 +236,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:39:50Z"
+    "logs_latest_update": "2026-02-04T12:50:58Z"
   }
 }
