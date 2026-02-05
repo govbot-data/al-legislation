@@ -31,6 +31,16 @@
       }
     },
     {
+      "description": "Reported Out of Committee House of Origin (Ways and Means General Fund)",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-05T12:53:22Z"
+      }
+    },
+    {
       "description": "Re-referred to Committee in House of Origin (Ways and Means General Fund)",
       "date": "2026-01-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -108,9 +118,31 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reported Out of Committee House of Origin",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/U9UVZDX-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-AR89GQS-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Fiscal Note: Introduced",
       "links": [
@@ -131,7 +163,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21303345"
+    "AL_BILL_ID": "22163927"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -140,6 +172,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:39:50Z"
+    "logs_latest_update": "2026-02-05T12:53:22Z"
   }
 }

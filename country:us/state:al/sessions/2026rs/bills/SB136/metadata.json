@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "SB136",
-  "title": "Sunset law; Alabama Massage Therapy Licensing Board continued with modification until October 1, 2026, when renamed Alabama Massage Advisory Council under the regulatory authority of the Alabama Department of Public Health",
+  "title": "Sunset law; Alabama Massage Therapy Licensing Board continued with modification until October 1, 2027, when renamed Alabama Massage Advisory Council under the regulatory authority of the Alabama Department of Public Health",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -18,6 +18,16 @@
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-05T12:53:22Z"
+      }
+    },
     {
       "description": "Pending Committee Action in Second House (Boards, Agencies and Commissions)",
       "date": "2026-01-29T05:00:00+00:00",
@@ -187,6 +197,17 @@
   ],
   "documents": [
     {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-FKW4HCC-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note: Introduced",
       "links": [
         {
@@ -215,6 +236,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:44:17Z"
+    "logs_latest_update": "2026-02-05T12:53:22Z"
   }
 }

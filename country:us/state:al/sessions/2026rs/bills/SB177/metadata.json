@@ -19,6 +19,36 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-05T12:53:22Z"
+      }
+    },
+    {
+      "description": "Banking and Insurance 2nd Amendment (Banking and Insurance)",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-05T12:53:22Z"
+      }
+    },
+    {
+      "description": "Banking and Insurance 1st Amendment (Banking and Insurance)",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-05T12:53:22Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in House of Origin (Banking and Insurance)",
       "date": "2026-01-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -52,7 +82,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HB 300",
+      "legislative_session": "2026rs",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced",
@@ -64,9 +100,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Banking and Insurance 2nd Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/PSLBYEG-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Banking and Insurance 1st Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/KHRN8U5-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-YMEJS22-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-YMEJS22-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -75,7 +156,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21735820"
+    "AL_BILL_ID": "22163740"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -84,6 +165,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:40:33Z"
+    "logs_latest_update": "2026-02-05T12:53:22Z"
   }
 }
