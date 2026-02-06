@@ -31,6 +31,16 @@
       }
     },
     {
+      "description": "Hulsey Motion to Carry Over Temporarily - Adopted Voice Vote",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:51:04Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Public Safety and Homeland Security)",
       "date": "2026-01-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -147,7 +157,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21269653"
+    "AL_BILL_ID": "22163793"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -156,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:39:50Z"
+    "logs_latest_update": "2026-02-06T12:51:04Z"
   }
 }

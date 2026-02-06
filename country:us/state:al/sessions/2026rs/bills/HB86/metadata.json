@@ -31,6 +31,16 @@
       }
     },
     {
+      "description": "Read for the Second Time and placed on the Calendar (Public Safety and Homeland Security)",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:51:04Z"
+      }
+    },
+    {
       "description": "Reported Out of Committee House of Origin (Public Safety and Homeland Security)",
       "date": "2026-02-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -140,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T12:53:22Z"
+    "logs_latest_update": "2026-02-06T12:51:04Z"
   }
 }
