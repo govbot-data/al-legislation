@@ -19,6 +19,16 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-02-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:03:25Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in Second House (RULES)",
       "date": "2026-01-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -191,6 +201,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:44:17Z"
+    "logs_latest_update": "2026-02-10T13:03:25Z"
   }
 }
