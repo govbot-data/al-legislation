@@ -31,6 +31,50 @@
       }
     },
     {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 332",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:59:51Z"
+      }
+    },
+    {
+      "description": "Givhan motion to Adopt - Adopted Roll Call 331",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:59:51Z"
+      }
+    },
+    {
+      "description": "Fiscal Responsibility and Economic Development 1st Amendment Offered (Fiscal Responsibility and Economic Development)",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:59:51Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:59:51Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Fiscal Responsibility and Economic Development)",
       "date": "2026-01-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -108,7 +152,7 @@
       "classification": ""
     },
     {
-      "note": "Fiscal Responsibility and Economic Development 1st Amendment",
+      "note": "Givhan motion to Adopt - Adopted Roll Call 331",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/DGVMJTT-1.pdf",
@@ -151,7 +195,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "20192136"
+    "AL_BILL_ID": "22163637"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -160,6 +204,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:39:50Z"
+    "logs_latest_update": "2026-02-11T12:59:51Z"
   }
 }

@@ -19,6 +19,28 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Currently Indefinitely Postponed",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:59:51Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:59:51Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (County and Municipal Government)",
       "date": "2026-01-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -113,7 +135,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21474488"
+    "AL_BILL_ID": "22163811"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -122,6 +144,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:39:50Z"
+    "logs_latest_update": "2026-02-11T12:59:51Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Finance and Taxation Education 2nd Amendment Offered (Finance and Taxation Education)",
+    "date": "2026-02-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB16"
+}

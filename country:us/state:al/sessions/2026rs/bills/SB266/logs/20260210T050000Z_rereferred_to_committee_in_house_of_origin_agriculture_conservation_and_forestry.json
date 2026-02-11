@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to Committee in House of Origin (Agriculture, Conservation, and Forestry)",
+    "date": "2026-02-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB266"
+}
