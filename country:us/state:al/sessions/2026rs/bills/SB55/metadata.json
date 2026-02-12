@@ -19,6 +19,16 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Carried Over",
+      "date": "2026-01-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:58:13Z"
+      }
+    },
+    {
       "description": "Barfoot motion to Adopt - Adopted Roll Call 52",
       "date": "2026-01-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -104,7 +114,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HB 307",
+      "legislative_session": "2026rs",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced",
@@ -150,7 +166,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21392829"
+    "AL_BILL_ID": "22163978"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -159,6 +175,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:40:33Z"
+    "logs_latest_update": "2026-02-12T12:58:13Z"
   }
 }

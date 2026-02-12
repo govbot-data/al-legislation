@@ -86,6 +86,16 @@
       }
     },
     {
+      "description": "Carried Over",
+      "date": "2026-01-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:58:13Z"
+      }
+    },
+    {
       "description": "Bell motion to Adopt - Adopted Roll Call 56",
       "date": "2026-01-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -236,6 +246,17 @@
   ],
   "documents": [
     {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-FKW47CC-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
@@ -275,6 +296,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:50:58Z"
+    "logs_latest_update": "2026-02-12T12:58:13Z"
   }
 }

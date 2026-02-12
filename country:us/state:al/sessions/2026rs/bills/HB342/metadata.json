@@ -19,6 +19,16 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Reported Out of Committee House of Origin (Fiscal Responsibility)",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:58:13Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in House of Origin (Fiscal Responsibility)",
       "date": "2026-01-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -64,9 +74,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reported Out of Committee House of Origin",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FKN8PCD-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-ZQ1QUKK-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,6 +117,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:44:17Z"
+    "logs_latest_update": "2026-02-12T12:58:13Z"
   }
 }

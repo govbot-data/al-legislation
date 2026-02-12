@@ -31,6 +31,16 @@
       }
     },
     {
+      "description": "Engrossed",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:58:13Z"
+      }
+    },
+    {
       "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 332",
       "date": "2026-02-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -152,6 +162,17 @@
       "classification": ""
     },
     {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB15-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Givhan motion to Adopt - Adopted Roll Call 331",
       "links": [
         {
@@ -204,6 +225,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T12:59:51Z"
+    "logs_latest_update": "2026-02-12T12:58:13Z"
   }
 }
