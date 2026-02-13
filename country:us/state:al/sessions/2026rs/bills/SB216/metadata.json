@@ -19,6 +19,16 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Read for the Second Time and placed on the Calendar (Veterans, Military Affairs and Public Safety)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:50:35Z"
+      }
+    },
+    {
       "description": "Reported Out of Committee House of Origin",
       "date": "2026-02-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -112,6 +122,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T12:58:13Z"
+    "logs_latest_update": "2026-02-13T12:50:35Z"
   }
 }

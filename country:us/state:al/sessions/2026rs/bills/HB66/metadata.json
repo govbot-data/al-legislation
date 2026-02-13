@@ -31,6 +31,16 @@
       }
     },
     {
+      "description": "Ready to Enroll",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:50:35Z"
+      }
+    },
+    {
       "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 326",
       "date": "2026-02-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -238,6 +248,17 @@
       "classification": ""
     },
     {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB66-enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Motion to Adopt - Adopted Roll Call 183",
       "links": [
         {
@@ -301,6 +322,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T12:59:51Z"
+    "logs_latest_update": "2026-02-13T12:50:35Z"
   }
 }

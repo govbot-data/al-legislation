@@ -19,13 +19,35 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Ready to Enroll",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:50:35Z"
+      }
+    },
+    {
+      "description": "Reported from RULES (RULES)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:50:35Z"
+      }
+    },
+    {
       "description": "Reported Out of Committee Second House",
-      "date": "2026-02-09T05:00:00+00:00",
+      "date": "2026-02-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-10T13:03:25Z"
+        "log_file_created": "2026-02-13T12:50:35Z"
       }
     },
     {
@@ -127,6 +149,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HJR53-enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -147,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:03:25Z"
+    "logs_latest_update": "2026-02-13T12:50:35Z"
   }
 }

@@ -19,6 +19,29 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Pending Committee Action in Second House (Ways and Means Education)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:50:35Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Ways and Means Education",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:50:35Z"
+      }
+    },
+    {
       "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 344",
       "date": "2026-02-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -176,6 +199,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T12:59:51Z"
+    "logs_latest_update": "2026-02-13T12:50:35Z"
   }
 }
