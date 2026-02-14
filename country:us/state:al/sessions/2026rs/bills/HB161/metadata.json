@@ -61,6 +61,16 @@
       }
     },
     {
+      "description": "Sells Concur In and Adopt - Adopted Roll Call 367",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-14T12:38:33Z"
+      }
+    },
+    {
       "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 244",
       "date": "2026-02-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -364,6 +374,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:50:35Z"
+    "logs_latest_update": "2026-02-14T12:38:33Z"
   }
 }
