@@ -19,6 +19,51 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Pending Committee Action in Second House (Boards, Agencies and Commissions)",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:55:13Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Boards, Agencies and Commissions",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:55:13Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 432",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:55:13Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:55:13Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (State Governmental Affairs)",
       "date": "2026-02-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -72,7 +117,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HB 462",
+      "legislative_session": "2026rs",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced",
@@ -116,6 +167,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:51:04Z"
+    "logs_latest_update": "2026-02-18T12:55:13Z"
   }
 }

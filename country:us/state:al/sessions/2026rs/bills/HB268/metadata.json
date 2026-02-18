@@ -19,6 +19,26 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Read for the Second Time and placed on the Calendar (County and Municipal Government)",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:55:13Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:55:13Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in Second House (County and Municipal Government)",
       "date": "2026-02-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -230,6 +250,17 @@
   ],
   "documents": [
     {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-PS9HMEG-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
@@ -269,6 +300,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:50:35Z"
+    "logs_latest_update": "2026-02-18T12:55:13Z"
   }
 }
