@@ -19,6 +19,26 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T12:56:06Z"
+      }
+    },
+    {
+      "description": "Education Policy 1st Substitute (Education Policy)",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T12:56:06Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in House of Origin (Education Policy)",
       "date": "2026-01-27T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -64,9 +84,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Education Policy 1st Substitute",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/5V7TAM3-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-2JE34IK-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-2JE34IK-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,6 +138,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:40:26Z"
+    "logs_latest_update": "2026-02-19T12:56:06Z"
   }
 }

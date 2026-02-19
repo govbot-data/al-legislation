@@ -19,6 +19,26 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T12:56:06Z"
+      }
+    },
+    {
+      "description": "Judiciary 1st Substitute (Judiciary)",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T12:56:06Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in House of Origin (Judiciary)",
       "date": "2026-01-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -64,9 +84,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Judiciary 1st Substitute",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/6YR4511-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-5V8QQ36-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-5V8QQ36-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -75,7 +129,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21473973"
+    "AL_BILL_ID": "22163800"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -84,6 +138,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:35:51Z"
+    "logs_latest_update": "2026-02-19T12:56:06Z"
   }
 }

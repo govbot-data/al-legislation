@@ -31,6 +31,26 @@
       }
     },
     {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T12:56:06Z"
+      }
+    },
+    {
+      "description": "Fiscal Responsibility and Economic Development 1st Amendment (Fiscal Responsibility and Economic Development)",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T12:56:06Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in Second House (Fiscal Responsibility and Economic Development)",
       "date": "2026-02-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -208,6 +228,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Responsibility and Economic Development 1st Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/TBL2459-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Motion to Adopt - Adopted Roll Call 314",
       "links": [
         {
@@ -231,6 +262,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Fiscal Note: Reported by Second Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-JPXVSNN-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
@@ -282,6 +324,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:50:35Z"
+    "logs_latest_update": "2026-02-19T12:56:06Z"
   }
 }

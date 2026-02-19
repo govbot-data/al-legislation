@@ -51,16 +51,6 @@
       }
     },
     {
-      "description": "Insurance 1st Substitute (Insurance)",
-      "date": "2026-02-11T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-12T12:58:13Z"
-      }
-    },
-    {
       "description": "Pending Committee Action in House of Origin (Insurance)",
       "date": "2026-01-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -106,17 +96,6 @@
       ],
       "date": "",
       "classification": ""
-    },
-    {
-      "note": "Insurance 1st Substitute",
-      "links": [
-        {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/7B1MGEV-1.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
     }
   ],
   "documents": [
@@ -125,6 +104,14 @@
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-NRS3GT8-2.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-NRS3GT8-3.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-NRS3GT8-4.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -160,6 +147,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:50:35Z"
+    "logs_latest_update": "2026-02-19T12:56:06Z"
   }
 }

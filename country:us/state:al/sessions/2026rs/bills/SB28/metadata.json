@@ -31,6 +31,16 @@
       }
     },
     {
+      "description": "Reported Out of Committee Second House (Ways and Means General Fund)",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T12:56:06Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in Second House (Ways and Means General Fund)",
       "date": "2026-02-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -228,6 +238,17 @@
       "classification": ""
     },
     {
+      "note": "Reported Out of Committee Second House",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/2J7JHKS-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Orr motion to Adopt - Adopted Roll Call 321",
       "links": [
         {
@@ -251,6 +272,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "Fiscal Note: Reported by Second Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-V7DWNPP-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-V7DWNPP-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
@@ -291,6 +334,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:50:35Z"
+    "logs_latest_update": "2026-02-19T12:56:06Z"
   }
 }
