@@ -19,6 +19,38 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Ready to Enroll",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 490",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Boards, Agencies and Commissions)",
       "date": "2026-02-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -194,6 +226,17 @@
       "classification": ""
     },
     {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB103-enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Kelley motion to Adopt - Adopted Roll Call 272",
       "links": [
         {
@@ -246,6 +289,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:50:35Z"
+    "logs_latest_update": "2026-02-20T12:50:01Z"
   }
 }

@@ -19,6 +19,71 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Pending Committee Action in Second House (Local Legislation)",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Local Legislation",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Chambliss Local Certification Resolution - Adopted Roll Call 453",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 452",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Reported out of Tourism and placed on the Calendar (Tourism)",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
       "description": "Reported Out of Committee House of Origin",
       "date": "2026-02-18T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -41,45 +106,43 @@
       }
     },
     {
-      "description": "Read for the Second Time and placed on the Calendar (Agriculture, Conservation, and Forestry)",
+      "description": "Reported out of Committee of House of Origin (Agriculture, Conservation, and Forestry)",
       "date": "2026-02-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-13T12:50:35Z"
+        "log_file_created": "2026-02-20T12:50:01Z"
       }
     },
     {
-      "description": "Reported Out of Committee House of Origin",
+      "description": "Pending Committee Action in House of Origin",
       "date": "2026-02-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-13T12:50:35Z"
+        "log_file_created": "2026-02-20T12:50:01Z"
       }
     },
     {
-      "description": "Re-referred to Committee in House of Origin (Agriculture, Conservation, and Forestry)",
-      "date": "2026-02-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-11T12:59:51Z"
-      }
-    },
-    {
-      "description": "Read for the Second Time and placed on the Calendar (Local Legislation )",
+      "description": "Re-referred per Rule 50(b) to Committee in House of Origin (Agriculture, Conservation, and Forestry)",
       "date": "2026-02-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-11T12:59:51Z"
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time (Local Legislation )",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
       }
     },
     {
@@ -158,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T12:56:06Z"
+    "logs_latest_update": "2026-02-20T12:50:01Z"
   }
 }

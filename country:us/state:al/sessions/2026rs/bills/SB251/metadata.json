@@ -19,6 +19,60 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Engrossed",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 506",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Hatcher motion to Adopt - Adopted Roll Call 505",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Finance and Taxation General Fund 1st Amendment Offered (Finance and Taxation General Fund)",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Finance and Taxation General Fund)",
       "date": "2026-02-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -102,7 +156,18 @@
       "classification": ""
     },
     {
-      "note": "Finance and Taxation General Fund 1st Amendment",
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB251-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Hatcher motion to Adopt - Adopted Roll Call 505",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/XDYVME7-1.pdf",
@@ -154,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:50:35Z"
+    "logs_latest_update": "2026-02-20T12:50:01Z"
   }
 }

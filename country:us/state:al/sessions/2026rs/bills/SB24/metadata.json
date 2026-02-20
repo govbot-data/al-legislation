@@ -31,6 +31,60 @@
       }
     },
     {
+      "description": "Engrossed",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 503",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Coleman-Madison motion to Adopt - Adopted Roll Call 502",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Judiciary 1st Substitute Offered (Judiciary)",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:50:01Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Judiciary)",
       "date": "2026-01-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -108,7 +162,18 @@
       "classification": ""
     },
     {
-      "note": "Judiciary 1st Substitute",
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB24-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Coleman-Madison motion to Adopt - Adopted Roll Call 502",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/PS8IDEE-1.pdf",
@@ -151,7 +216,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "20641000"
+    "AL_BILL_ID": "22164004"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -160,6 +225,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:39:50Z"
+    "logs_latest_update": "2026-02-20T12:50:01Z"
   }
 }
