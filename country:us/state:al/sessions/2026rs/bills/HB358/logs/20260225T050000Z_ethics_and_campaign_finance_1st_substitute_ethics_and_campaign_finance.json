@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Ethics and Campaign Finance 1st Substitute (Ethics and Campaign Finance)",
+    "date": "2026-02-25T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB358"
+}

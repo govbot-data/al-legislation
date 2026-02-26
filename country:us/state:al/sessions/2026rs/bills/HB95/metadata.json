@@ -31,6 +31,36 @@
       }
     },
     {
+      "description": "Read for the Second Time and placed on the Calendar (Finance and Taxation General Fund)",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:56:40Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:56:40Z"
+      }
+    },
+    {
+      "description": "Finance and Taxation General Fund 1st Amendment (Finance and Taxation General Fund)",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:56:40Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in Second House (Finance and Taxation General Fund)",
       "date": "2026-01-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -218,6 +248,17 @@
       "classification": ""
     },
     {
+      "note": "Finance and Taxation General Fund 1st Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/84687HH-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Motion to Adopt - Lost Roll Call 3",
       "links": [
         {
@@ -253,6 +294,28 @@
   ],
   "documents": [
     {
+      "note": "Fiscal Note: Reported by Second Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-KHB2NUU-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-KHB2NUU-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
@@ -283,7 +346,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21018860"
+    "AL_BILL_ID": "22163981"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -292,6 +355,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:35:51Z"
+    "logs_latest_update": "2026-02-26T12:56:40Z"
   }
 }
