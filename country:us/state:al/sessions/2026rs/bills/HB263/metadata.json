@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "HB263",
-  "title": "Biological and neural data; certain disclosures, transfers, and use by a covered entity prohibited unless consumer provides express consent, Attorney General authorized to enforce, civil penalties provided",
+  "title": "Biological and neural data of individuals; certain disclosures, transfers, and use by a health and fitness app prohibited without express consent, Attorney General authorized to enforce, civil penalties provided",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -18,6 +18,105 @@
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
+    {
+      "description": "Pending Committee Action in Second House (Judiciary)",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:50:35Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on Judiciary",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:50:35Z"
+      }
+    },
+    {
+      "description": "Engrossed",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:50:35Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 650",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:50:35Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 649",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:50:35Z"
+      }
+    },
+    {
+      "description": "Robbins 1st Amendment Offered",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:50:35Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 648",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:50:35Z"
+      }
+    },
+    {
+      "description": "Judiciary 1st Substitute Offered (Judiciary)",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:50:35Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:50:35Z"
+      }
+    },
     {
       "description": "Read for the Second Time and placed on the Calendar (Judiciary)",
       "date": "2026-02-19T05:00:00+00:00",
@@ -96,7 +195,29 @@
       "classification": ""
     },
     {
-      "note": "Judiciary 1st Substitute",
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB263-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 649",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/DG8FMHN-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 648",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/6YR4511-1.pdf",
@@ -148,6 +269,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:50:01Z"
+    "logs_latest_update": "2026-02-27T12:50:35Z"
   }
 }
