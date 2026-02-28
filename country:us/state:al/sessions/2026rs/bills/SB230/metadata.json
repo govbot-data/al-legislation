@@ -61,6 +61,16 @@
       }
     },
     {
+      "description": "Gudger Concur In and Adopt - Adopted Roll Call 663",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:36:50Z"
+      }
+    },
+    {
       "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 613",
       "date": "2026-02-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -365,6 +375,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:50:35Z"
+    "logs_latest_update": "2026-02-28T12:36:50Z"
   }
 }

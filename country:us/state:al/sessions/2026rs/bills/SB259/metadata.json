@@ -31,6 +31,16 @@
       }
     },
     {
+      "description": "Motion to Adopt - Adopted Roll Call 631",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:36:50Z"
+      }
+    },
+    {
       "description": "Lee 1st Amendment Offered",
       "date": "2026-02-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -244,7 +254,7 @@
       "classification": ""
     },
     {
-      "note": "Lee 1st Amendment Offered",
+      "note": "Motion to Adopt - Adopted Roll Call 631",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/ZQHFYWK-1.pdf",
@@ -318,6 +328,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:50:35Z"
+    "logs_latest_update": "2026-02-28T12:36:50Z"
   }
 }
