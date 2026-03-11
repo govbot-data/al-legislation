@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "HB511",
-  "title": "Public K-12 education; Pledge of Allegiance required each day, local boards of education required to vote whether to adopt policy allowing daily prayer and reading of religious text, constitutional amendment",
+  "title": "Public K-12 education; Pledge of Allegiance and prayer required each day, constitutional amendment",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -18,6 +18,148 @@
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 817",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Bracy intended to vote \"Nay\"",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Ingram motion to Table - Adopted Roll Call 816",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Sellers 1st Amendment Offered",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 815",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Drummond 1st Amendment Offered",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Ingram motion to Table - Adopted Roll Call 814",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Lands 1st Amendment Offered",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 813",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Faulkner 1st Amendment Offered",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 812",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "State Government 1st Substitute Offered (State Government)",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
     {
       "description": "Read for the Second Time and placed on the Calendar (State Government)",
       "date": "2026-03-05T05:00:00+00:00",
@@ -96,7 +238,62 @@
       "classification": ""
     },
     {
-      "note": "State Government 1st Substitute",
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB511-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ingram motion to Table - Adopted Roll Call 816",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/2JQG1KI-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 815",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/RBZ41MM-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ingram motion to Table - Adopted Roll Call 814",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/BYKTDJJ-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 813",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/BYK33J4-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 812",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FKVHWDC-1.pdf",
@@ -148,6 +345,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:43:53Z"
+    "logs_latest_update": "2026-03-11T12:51:38Z"
   }
 }

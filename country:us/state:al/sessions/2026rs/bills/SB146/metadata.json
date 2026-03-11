@@ -1,23 +1,53 @@
 {
   "legislative_session": "2026rs",
   "identifier": "SB146",
-  "title": "FY26 Regular Session State General Fund - Governor's Recommended for FY27",
+  "title": "Appropriations from State General Fund for executive, legislative, and judicial agencies of the State, other functions of government, debt service, and capital outlay for fiscal year ending September 30, 2027",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "FY26 Regular Session State General Fund - Governor's Recommended for FY27"
+    "Appropriations"
   ],
   "abstracts": [
     {
       "note": "full subject",
-      "abstract": "FY26 Regular Session State General Fund - Governor's Recommended for FY27"
+      "abstract": "Appropriations"
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Finance and Taxation General Fund)",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Finance and Taxation General Fund 1st Substitute (Finance and Taxation General Fund)",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
     {
       "description": "Pending Committee Action in House of Origin (Finance and Taxation General Fund)",
       "date": "2026-01-14T05:00:00+00:00",
@@ -64,9 +94,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Finance and Taxation General Fund 1st Substitute",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/XDPAW7E-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-HGM9Q83-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-HGM9Q83-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -75,7 +139,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21435773"
+    "AL_BILL_ID": "22164001"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -84,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:37:22Z"
+    "logs_latest_update": "2026-03-11T12:51:38Z"
   }
 }

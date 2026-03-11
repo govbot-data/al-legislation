@@ -31,6 +31,72 @@
       }
     },
     {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 769",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Chambliss motion to Adopt - Adopted Roll Call 768",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Chambliss 1st Amendment Offered",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Albritton motion to Adopt - Adopted Roll Call 767",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Albritton 1st Amendment Offered",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:51:38Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Finance and Taxation General Fund)",
       "date": "2026-02-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -161,6 +227,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Chambliss motion to Adopt - Adopted Roll Call 768",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HGPHJ66-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Albritton motion to Adopt - Adopted Roll Call 767",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/BYKDLQJ-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -204,6 +292,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:51:04Z"
+    "logs_latest_update": "2026-03-11T12:51:38Z"
   }
 }
