@@ -19,6 +19,60 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Engrossed",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended- Adopted Roll Call 814",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Albritton motion to adopt- Adopted Roll Call 813",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Finance and Taxation General Fund 1st Substitute Offered (Finance and Taxation General Fund)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Finance and Taxation General Fund)",
       "date": "2026-03-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -96,7 +150,18 @@
       "classification": ""
     },
     {
-      "note": "Finance and Taxation General Fund 1st Substitute",
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB146-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Finance and Taxation General Fund 1st Substitute Offered",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/XDPAW7E-1.pdf",
@@ -148,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:51:38Z"
+    "logs_latest_update": "2026-03-12T12:51:12Z"
   }
 }

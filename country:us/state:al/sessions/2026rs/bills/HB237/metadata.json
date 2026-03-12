@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "HB237",
-  "title": "FY26 EORF Bill",
+  "title": "Educational Opportunities Reserve Fund, appropriations",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -18,6 +18,36 @@
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Ways and Means Education)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Ways and Means Education 1st Substitute (Ways and Means Education)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
     {
       "description": "Pending Committee Action in House of Origin (Ways and Means Education)",
       "date": "2026-01-14T05:00:00+00:00",
@@ -64,9 +94,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Ways and Means Education 1st Substitute",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/XDUYCEZ-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-3PUTGEZ-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-3PUTGEZ-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -75,7 +139,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21437119"
+    "AL_BILL_ID": "22163462"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -84,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:37:22Z"
+    "logs_latest_update": "2026-03-12T12:51:12Z"
   }
 }

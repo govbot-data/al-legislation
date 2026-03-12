@@ -19,6 +19,36 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Transportation and Energy 1st Amendment (Transportation and Energy)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Transportation and Energy)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in House of Origin (Transportation and Energy)",
       "date": "2026-03-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -64,9 +94,31 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Transportation and Energy 1st Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/PSPF6EG-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-NRPSEJJ-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Fiscal Note: Introduced",
       "links": [
@@ -96,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:51:38Z"
+    "logs_latest_update": "2026-03-12T12:51:12Z"
   }
 }

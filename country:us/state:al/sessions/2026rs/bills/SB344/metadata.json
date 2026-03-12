@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "SB344",
-  "title": "Higher education, College and Higher Education Excellence and Results (CHEER) Act  established, bonus funding for eligible institutions authorized based on achievement of performance goals and objectives",
+  "title": "Higher education, College and Higher Education Excellence and Results (CHEER) Act established, bonus funding for eligible institutions authorized based on achievement of performance goals and objectives",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -18,6 +18,46 @@
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Finance and Taxation Education)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Finance and Taxation Education 2nd Amendment (Finance and Taxation Education)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
+    {
+      "description": "Finance and Taxation Education 1st Amendment (Finance and Taxation Education)",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:51:12Z"
+      }
+    },
     {
       "description": "Pending Committee Action in House of Origin (Finance and Taxation Education)",
       "date": "2026-03-05T05:00:00+00:00",
@@ -64,9 +104,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Finance and Taxation Education 2nd Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/ARB1TSS-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Finance and Taxation Education 1st Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/YMC1CNN-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-7BPQUEE-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-7BPQUEE-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,6 +169,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:43:53Z"
+    "logs_latest_update": "2026-03-12T12:51:12Z"
   }
 }
