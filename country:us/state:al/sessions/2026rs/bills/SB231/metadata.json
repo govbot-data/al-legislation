@@ -61,6 +61,16 @@
       }
     },
     {
+      "description": "Chambliss Concur In and Adopt - Adopted Roll Call 731",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:49:57Z"
+      }
+    },
+    {
       "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 791",
       "date": "2026-03-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -360,6 +370,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:51:38Z"
+    "logs_latest_update": "2026-03-13T12:49:57Z"
   }
 }
