@@ -1,23 +1,47 @@
 {
   "legislative_session": "2026rs",
   "identifier": "SB350",
-  "title": "Antitrust",
+  "title": "State Health Planning and Development Agency; collaboration among rural health care providers authorized; certification and supervision framework established, limited immunity from state and federal antitrust laws provided",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Antitrust"
+    "Health"
   ],
   "abstracts": [
     {
       "note": "full subject",
-      "abstract": "Antitrust"
+      "abstract": "Health"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb350"
+    }
+  ],
   "actions": [
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Healthcare)",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
     {
       "description": "Pending Committee Action in House of Origin (Healthcare)",
       "date": "2026-03-10T04:00:00+00:00",
@@ -72,7 +96,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-ZQ657KK-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -90,6 +126,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:51:38Z"
+    "logs_latest_update": "2026-03-18T13:01:18Z"
   }
 }

@@ -16,8 +16,32 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb269"
+    }
+  ],
   "actions": [
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Insurance)",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
     {
       "description": "Pending Committee Action in Second House (Insurance)",
       "date": "2026-03-05T05:00:00+00:00",
@@ -203,6 +227,17 @@
   ],
   "documents": [
     {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-1197U3L-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
@@ -242,6 +277,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:43:53Z"
+    "logs_latest_update": "2026-03-18T13:01:18Z"
   }
 }

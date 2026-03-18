@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "SB304",
-  "title": "Municipalities; business license for general contractors, subcontractors, engineers, and land surveyors provided for",
+  "title": "Municipalities; business license for certain businesses in the building trade provided for",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -16,8 +16,88 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb304"
+    }
+  ],
   "actions": [
+    {
+      "description": "Engrossed",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 919",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Albritton motion to Adopt - Adopted Roll Call 918",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Elliott 2nd Substitute Offered",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Albritton motion to Table - Adopted Voice Vote",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "County and Municipal Government 1st Substitute Offered (County and Municipal Government)",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
     {
       "description": "Read for the Second Time and placed on the Calendar (County and Municipal Government)",
       "date": "2026-02-17T05:00:00+00:00",
@@ -96,7 +176,29 @@
       "classification": ""
     },
     {
-      "note": "County and Municipal Government 1st Substitute",
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB304-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Albritton motion to Adopt - Adopted Roll Call 918",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/V74A6LP-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Albritton motion to Table - Adopted Voice Vote",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/MSAMUHW-1.pdf",
@@ -148,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T12:55:13Z"
+    "logs_latest_update": "2026-03-18T13:01:18Z"
   }
 }

@@ -16,8 +16,34 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb334"
+    }
+  ],
   "actions": [
+    {
+      "description": "Currently Indefinitely Postponed",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
     {
       "description": "Read for the Second Time and placed on the Calendar (Shelby County Legislation)",
       "date": "2026-03-10T04:00:00+00:00",
@@ -169,6 +195,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:51:38Z"
+    "logs_latest_update": "2026-03-18T13:01:18Z"
   }
 }

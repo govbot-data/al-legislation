@@ -16,8 +16,54 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb354"
+    }
+  ],
   "actions": [
+    {
+      "description": "Carried Over",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Albritton motion to Table - Adopted Voice Vote",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Transportation and Energy 1st Amendment Offered (Transportation and Energy)",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T13:01:18Z"
+      }
+    },
     {
       "description": "Reported Out of Committee House of Origin",
       "date": "2026-03-11T04:00:00+00:00",
@@ -96,7 +142,7 @@
       "classification": ""
     },
     {
-      "note": "Transportation and Energy 1st Amendment",
+      "note": "Albritton motion to Table - Adopted Voice Vote",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/PSPF6EG-1.pdf",
@@ -148,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:51:12Z"
+    "logs_latest_update": "2026-03-18T13:01:18Z"
   }
 }
