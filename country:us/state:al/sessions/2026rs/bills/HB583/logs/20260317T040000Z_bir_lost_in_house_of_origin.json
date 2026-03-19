@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "BIR Lost in House of Origin",
+    "date": "2026-03-17T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB583"
+}

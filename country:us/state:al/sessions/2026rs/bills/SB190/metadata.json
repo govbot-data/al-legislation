@@ -16,8 +16,22 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb190"
+    }
+  ],
   "actions": [
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T12:55:12Z"
+      }
+    },
     {
       "description": "Pending Committee Action in Second House (Ways and Means Education)",
       "date": "2026-02-17T05:00:00+00:00",
@@ -219,6 +233,17 @@
   ],
   "documents": [
     {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-11SKU3L-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
@@ -258,6 +283,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T12:55:13Z"
+    "logs_latest_update": "2026-03-19T12:55:12Z"
   }
 }

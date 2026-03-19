@@ -16,8 +16,22 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb343"
+    }
+  ],
   "actions": [
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T12:55:12Z"
+      }
+    },
     {
       "description": "Pending Committee Action in Second House (Mobile County Legislation)",
       "date": "2026-03-11T04:00:00+00:00",
@@ -155,6 +169,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:51:12Z"
+    "logs_latest_update": "2026-03-19T12:55:12Z"
   }
 }
