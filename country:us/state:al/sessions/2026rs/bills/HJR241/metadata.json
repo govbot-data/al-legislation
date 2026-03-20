@@ -16,8 +16,44 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hjr241"
+    }
+  ],
   "actions": [
+    {
+      "description": "Lovvorn motion to Adopt - Adopted Voice Vote",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:51:26Z"
+      }
+    },
+    {
+      "description": "Reported from Rules (Rules)",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:51:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:51:26Z"
+      }
+    },
     {
       "description": "Pending Committee Action in House of Origin (Rules)",
       "date": "2026-03-12T04:00:00+00:00",
@@ -83,6 +119,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:49:57Z"
+    "logs_latest_update": "2026-03-20T12:51:26Z"
   }
 }

@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hb7"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -28,6 +32,50 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:28:57Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 955",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:51:26Z"
+      }
+    },
+    {
+      "description": "Woods motion to Adopt - Adopted Roll Call 954",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:51:26Z"
+      }
+    },
+    {
+      "description": "Judiciary 1st Amendment Offered (Judiciary)",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:51:26Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:51:26Z"
       }
     },
     {
@@ -203,11 +251,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Woods",
+      "name": "Lomax",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Woods\"}",
+      "person_id": "~{\"name\": \"Lomax\"}",
       "organization_id": null
     }
   ],
@@ -242,7 +290,7 @@
       "classification": ""
     },
     {
-      "note": "Judiciary 1st Amendment",
+      "note": "Woods motion to Adopt - Adopted Roll Call 954",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/11K4D33-1.pdf",
@@ -327,6 +375,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:50:01Z"
+    "logs_latest_update": "2026-03-20T12:51:26Z"
   }
 }
