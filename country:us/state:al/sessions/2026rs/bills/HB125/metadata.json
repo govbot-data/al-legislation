@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hb125"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -28,6 +32,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-08T12:37:11Z"
+      }
+    },
+    {
+      "description": "Enacted",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:57Z"
       }
     },
     {
@@ -285,6 +301,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:49:57Z"
+    "logs_latest_update": "2026-04-01T13:11:57Z"
   }
 }

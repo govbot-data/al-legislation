@@ -23,6 +23,92 @@
   ],
   "actions": [
     {
+      "description": "Ready to Enroll",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:58Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 987",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:58Z"
+      }
+    },
+    {
+      "description": "Roberts motion to Adopt - Adopted Roll Call 986",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:58Z"
+      }
+    },
+    {
+      "description": "Petition To Close Debate- Adopted Roll Call 985",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:58Z"
+      }
+    },
+    {
+      "description": "Roberts Substitute Offered",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:58Z"
+      }
+    },
+    {
+      "description": "Roberts motion to Table - Adopted Voice Vote",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:58Z"
+      }
+    },
+    {
+      "description": "Fiscal Responsibility and Economic Development 1st Substitute Offered (Fiscal Responsibility and Economic Development)",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:58Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:58Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Fiscal Responsibility and Economic Development)",
       "date": "2026-03-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -240,7 +326,29 @@
       "classification": ""
     },
     {
-      "note": "Fiscal Responsibility and Economic Development 1st Substitute",
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB381-enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Roberts motion to Adopt - Adopted Roll Call 986",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/7BLD8EV-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Roberts motion to Table - Adopted Voice Vote",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SL6G678-1.pdf",
@@ -336,6 +444,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-18T13:01:18Z"
+    "logs_latest_update": "2026-04-01T13:11:58Z"
   }
 }

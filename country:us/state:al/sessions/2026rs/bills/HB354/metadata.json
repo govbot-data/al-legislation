@@ -23,6 +23,29 @@
   ],
   "actions": [
     {
+      "description": "Pending Committee Action in Second House (Finance and Taxation Education)",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:57Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on Finance and Taxation Education",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:11:57Z"
+      }
+    },
+    {
       "description": "Engrossed",
       "date": "2026-03-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -243,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:51:26Z"
+    "logs_latest_update": "2026-04-01T13:11:57Z"
   }
 }
