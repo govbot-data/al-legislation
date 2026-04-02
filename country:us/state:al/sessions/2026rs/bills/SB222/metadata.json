@@ -16,8 +16,42 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb222"
+    }
+  ],
   "actions": [
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Transportation, Utilities and Infrastructure)",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:03:05Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:03:05Z"
+      }
+    },
+    {
+      "description": "Transportation, Utilities and Infrastructure 1st Substitute (Transportation, Utilities and Infrastructure)",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:03:05Z"
+      }
+    },
     {
       "description": "Pending Committee Action in Second House (Transportation, Utilities and Infrastructure)",
       "date": "2026-02-24T05:00:00+00:00",
@@ -139,9 +173,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Transportation, Utilities and Infrastructure 1st Substitute",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/MSN861H-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Fiscal Note: Reported by Second Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-I3SVBZW-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-I3SVBZW-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Fiscal Note: Introduced",
       "links": [
@@ -171,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:55:35Z"
+    "logs_latest_update": "2026-04-02T13:03:05Z"
   }
 }
