@@ -65,23 +65,13 @@
       }
     },
     {
-      "description": "Third Reading in Second House",
+      "description": "Figures Motion to Concur In and Adopt House Amendment to SB203",
       "date": "2026-04-01T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-02T13:03:05Z"
-      }
-    },
-    {
-      "description": "Third Reading in Second House",
-      "date": "2026-04-01T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-02T13:03:05Z"
+        "log_file_created": "2026-04-03T12:55:18Z"
       }
     },
     {
@@ -438,6 +428,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:03:05Z"
+    "logs_latest_update": "2026-04-03T12:55:18Z"
   }
 }

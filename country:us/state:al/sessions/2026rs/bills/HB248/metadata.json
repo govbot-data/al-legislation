@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "HB248",
-  "title": "Alabama Business and Nonprofit Entities Code. revisions made to clarify procedures, make technical corrections, and codify common law",
+  "title": "Alabama Business and Nonprofit Entities Code; revisions made to clarify procedures, make technical corrections, and codify common law",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -48,16 +48,6 @@
     {
       "description": "Engrossed",
       "date": "2026-03-31T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-02T13:03:05Z"
-      }
-    },
-    {
-      "description": "Third Reading in House of Origin",
-      "date": "2026-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
@@ -256,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:03:05Z"
+    "logs_latest_update": "2026-04-03T12:55:18Z"
   }
 }

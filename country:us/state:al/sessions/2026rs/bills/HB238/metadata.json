@@ -23,6 +23,94 @@
   ],
   "actions": [
     {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 1107",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:55:18Z"
+      }
+    },
+    {
+      "description": "Orr motion to Adopt - Adopted Roll Call 1106",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:55:18Z"
+      }
+    },
+    {
+      "description": "Orr 1st Amendment Offered",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:55:18Z"
+      }
+    },
+    {
+      "description": "Orr motion to Adopt - Adopted Roll Call 1105",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:55:18Z"
+      }
+    },
+    {
+      "description": "Orr 2nd Substitute Offered",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:55:18Z"
+      }
+    },
+    {
+      "description": "Orr motion to Table - Adopted Voice Vote",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:55:18Z"
+      }
+    },
+    {
+      "description": "Finance and Taxation Education 1st Substitute Offered (Finance and Taxation Education)",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:55:18Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:55:18Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Finance and Taxation Education)",
       "date": "2026-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -230,7 +318,29 @@
       "classification": ""
     },
     {
-      "note": "Finance and Taxation Education 1st Substitute",
+      "note": "Orr motion to Adopt - Adopted Roll Call 1106",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/MSNAYHH-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Orr motion to Adopt - Adopted Roll Call 1105",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/RBPXJNM-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Orr motion to Table - Adopted Voice Vote",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/I3TGU6Z-1.pdf",
@@ -326,6 +436,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:03:05Z"
+    "logs_latest_update": "2026-04-03T12:55:18Z"
   }
 }
