@@ -23,6 +23,16 @@
   ],
   "actions": [
     {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-04-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-04T12:44:22Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in House of Origin (RULES)",
       "date": "2026-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -88,6 +98,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:03:05Z"
+    "logs_latest_update": "2026-04-04T12:44:22Z"
   }
 }
