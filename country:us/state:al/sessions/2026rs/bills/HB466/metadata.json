@@ -23,6 +23,18 @@
   ],
   "actions": [
     {
+      "description": "Enacted",
+      "date": "2026-04-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-07T13:10:22Z"
+      }
+    },
+    {
       "description": "Signature Requested",
       "date": "2026-03-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -389,6 +401,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:11:58Z"
+    "logs_latest_update": "2026-04-07T13:10:22Z"
   }
 }

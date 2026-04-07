@@ -23,26 +23,6 @@
   ],
   "actions": [
     {
-      "description": "Third Reading in House of Origin",
-      "date": "2026-04-01T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-02T13:03:05Z"
-      }
-    },
-    {
-      "description": "Third Reading in House of Origin",
-      "date": "2026-04-01T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-02T13:03:05Z"
-      }
-    },
-    {
       "description": "Pending Committee Action in Second House (Finance and Taxation Education)",
       "date": "2026-03-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -313,6 +293,10 @@
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-8418MH2-3.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-8418MH2-2.pdf",
           "media_type": "application/pdf"
         }
@@ -349,6 +333,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:03:05Z"
+    "logs_latest_update": "2026-04-07T13:10:22Z"
   }
 }

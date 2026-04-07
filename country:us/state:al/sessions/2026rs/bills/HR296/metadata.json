@@ -34,19 +34,6 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:11:57Z"
       }
-    },
-    {
-      "description": "Joint Rule 11",
-      "date": "2026-03-31T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction",
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-01T13:11:57Z"
-      }
     }
   ],
   "sponsorships": [
@@ -91,6 +78,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:11:57Z"
+    "logs_latest_update": "2026-04-07T13:10:22Z"
   }
 }

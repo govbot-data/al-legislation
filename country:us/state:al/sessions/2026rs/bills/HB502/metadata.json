@@ -65,16 +65,6 @@
       }
     },
     {
-      "description": "Ready to Enroll",
-      "date": "2026-04-02T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-03T12:55:18Z"
-      }
-    },
-    {
       "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 1071",
       "date": "2026-04-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -98,16 +88,6 @@
     },
     {
       "description": "Read for the Second Time and placed on the Calendar (Mobile County Legislation)",
-      "date": "2026-04-01T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-02T13:03:05Z"
-      }
-    },
-    {
-      "description": "Third Reading in House of Origin",
       "date": "2026-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -312,6 +292,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T12:55:18Z"
+    "logs_latest_update": "2026-04-07T13:10:22Z"
   }
 }
