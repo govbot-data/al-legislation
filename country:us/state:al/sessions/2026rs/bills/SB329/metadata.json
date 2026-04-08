@@ -16,8 +16,24 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb329"
+    }
+  ],
   "actions": [
+    {
+      "description": "Currently Indefinitely Postponed",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:12:03Z"
+      }
+    },
     {
       "description": "Read for the Second Time and placed on the Calendar (Fiscal Responsibility and Economic Development)",
       "date": "2026-03-11T04:00:00+00:00",
@@ -116,6 +132,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:51:12Z"
+    "logs_latest_update": "2026-04-08T13:12:03Z"
   }
 }

@@ -23,6 +23,26 @@
   ],
   "actions": [
     {
+      "description": "Ready to Enroll",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:12:03Z"
+      }
+    },
+    {
+      "description": "Garrett Motion to Concur In and Adopt Senate Amendment - Adopted Roll Call 1248",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:12:03Z"
+      }
+    },
+    {
       "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 1098",
       "date": "2026-04-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -318,6 +338,17 @@
       "classification": ""
     },
     {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB235-enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Orr motion to Adopt - Adopted Roll Call 1097",
       "links": [
         {
@@ -436,6 +467,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T12:55:18Z"
+    "logs_latest_update": "2026-04-08T13:12:03Z"
   }
 }

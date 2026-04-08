@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "HJR244",
-  "title": "Young Ladies of Class Mentorship Program, honored",
+  "title": "Young Ladies of Class Mentorship and Debutante Program and its founder, Sheyann Webb-Christburg, honored",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
@@ -22,6 +22,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:12:03Z"
+      }
+    },
     {
       "description": "Pending Committee Action in Second House (RULES)",
       "date": "2026-03-31T04:00:00+00:00",
@@ -141,6 +151,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:11:58Z"
+    "logs_latest_update": "2026-04-08T13:12:03Z"
   }
 }

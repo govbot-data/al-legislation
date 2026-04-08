@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb38"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -28,6 +32,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-14T12:37:29Z"
+      }
+    },
+    {
+      "description": "Currently Indefinitely Postponed",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:12:03Z"
       }
     },
     {
@@ -160,6 +176,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:51:04Z"
+    "logs_latest_update": "2026-04-08T13:12:03Z"
   }
 }

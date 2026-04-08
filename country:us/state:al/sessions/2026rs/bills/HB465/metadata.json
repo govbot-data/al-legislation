@@ -16,8 +16,44 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hb465"
+    }
+  ],
   "actions": [
+    {
+      "description": "Ready to Enroll",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:12:03Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 1186",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:12:03Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:12:03Z"
+      }
+    },
     {
       "description": "Read for the Second Time and placed on the Calendar (Veterans, Military Affairs and Public Safety)",
       "date": "2026-03-11T04:00:00+00:00",
@@ -194,6 +230,17 @@
       "classification": ""
     },
     {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB465-enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Motion to Adopt - Adopted Roll Call 689",
       "links": [
         {
@@ -257,6 +304,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:51:12Z"
+    "logs_latest_update": "2026-04-08T13:12:03Z"
   }
 }
