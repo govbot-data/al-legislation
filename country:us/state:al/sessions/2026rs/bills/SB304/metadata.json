@@ -23,6 +23,92 @@
   ],
   "actions": [
     {
+      "description": "Ready to Enroll",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Gudger Motion to Concur In and Adopt House Amendment - Adopted Roll Call 1263",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 1293",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Lee motion to Table - Adopted Roll Call 1292",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Hill 1st Amendment Offered",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 1291",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Lee 1st Amendment Offered",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Transportation, Utilities and Infrastructure)",
       "date": "2026-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -230,6 +316,39 @@
       "classification": ""
     },
     {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB304-enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Lee motion to Table - Adopted Roll Call 1292",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/CXNZVWQ-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 1291",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/BY7AN4J-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Albritton motion to Adopt - Adopted Roll Call 918",
       "links": [
         {
@@ -304,6 +423,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:03:05Z"
+    "logs_latest_update": "2026-04-09T13:16:39Z"
   }
 }

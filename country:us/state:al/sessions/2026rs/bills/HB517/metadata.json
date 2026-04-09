@@ -23,6 +23,94 @@
   ],
   "actions": [
     {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 1256",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Elliott motion to Adopt - Adopted Roll Call 1255",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Elliott 1st Amendment Offered",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Elliott motion to Adopt - Adopted Roll Call 1254",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Elliott motion to Adopt - Adopted Roll Call 1253",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Finance and Taxation Education 1st Amendment Offered (Finance and Taxation Education)",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Finance and Taxation Education 2nd Amendment Offered (Finance and Taxation Education)",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Finance and Taxation Education)",
       "date": "2026-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -250,7 +338,18 @@
       "classification": ""
     },
     {
-      "note": "Finance and Taxation Education 2nd Amendment",
+      "note": "Elliott motion to Adopt - Adopted Roll Call 1255",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/5VPWQM3-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Elliott motion to Adopt - Adopted Roll Call 1254",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/KH3KGUU-1.pdf",
@@ -261,7 +360,7 @@
       "classification": ""
     },
     {
-      "note": "Finance and Taxation Education 1st Amendment",
+      "note": "Elliott motion to Adopt - Adopted Roll Call 1253",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/XDM2IZE-1.pdf",
@@ -357,6 +456,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:03:05Z"
+    "logs_latest_update": "2026-04-09T13:16:39Z"
   }
 }

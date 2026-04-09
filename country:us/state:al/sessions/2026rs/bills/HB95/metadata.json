@@ -35,13 +35,33 @@
       }
     },
     {
-      "description": "Lovvorn Motion to Concur In and Adopt Executive Amendment - Roll Call 1253",
+      "description": "Signed by Governor",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Gudger Motion to Concur In and Adopt Executive Amendment - Adopted Roll Call 1229",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Lovvorn Motion to Concur In and Adopt Executive Amendment - Adopted Roll Call 1253",
       "date": "2026-04-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-08T13:12:03Z"
+        "log_file_created": "2026-04-09T13:16:39Z"
       }
     },
     {
@@ -486,6 +506,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:12:03Z"
+    "logs_latest_update": "2026-04-09T13:16:39Z"
   }
 }

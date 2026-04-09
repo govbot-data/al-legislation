@@ -23,6 +23,36 @@
   ],
   "actions": [
     {
+      "description": "Read for the Second Time and placed on the Calendar (State Governmental Affairs)",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
+      "description": "State Governmental Affairs 1st Amendment (State Governmental Affairs)",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in Second House (State Governmental Affairs)",
       "date": "2026-03-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -200,6 +230,17 @@
       "classification": ""
     },
     {
+      "note": "State Governmental Affairs 1st Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/84XNDH2-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Motion to Adopt - Adopted Roll Call 990",
       "links": [
         {
@@ -223,6 +264,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "Fiscal Note: Reported by Second Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-QNGIA41-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-QNGIA41-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Fiscal Note: Introduced",
       "links": [
@@ -252,6 +315,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:11:57Z"
+    "logs_latest_update": "2026-04-09T13:16:39Z"
   }
 }

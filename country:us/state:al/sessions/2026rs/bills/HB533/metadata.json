@@ -23,6 +23,18 @@
   ],
   "actions": [
     {
+      "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 1271",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:16:39Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Healthcare)",
       "date": "2026-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -196,6 +208,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:03:05Z"
+    "logs_latest_update": "2026-04-09T13:16:39Z"
   }
 }
