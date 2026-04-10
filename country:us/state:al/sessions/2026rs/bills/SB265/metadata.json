@@ -23,6 +23,28 @@
   ],
   "actions": [
     {
+      "description": "Carried Over to the Call of the Chair",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T13:00:34Z"
+      }
+    },
+    {
+      "description": "Economic Development and Tourism  Engrossed Substitute Offered (Economic Development and Tourism)",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T13:00:34Z"
+      }
+    },
+    {
       "description": "Read for the Second Time and placed on the Calendar (Economic Development and Tourism)",
       "date": "2026-03-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -274,7 +296,7 @@
       "classification": ""
     },
     {
-      "note": "Reported Out of Committee Second House",
+      "note": "Economic Development and Tourism  Engrossed Substitute Offered",
       "links": [
         {
           "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SLUET57-1.pdf",
@@ -392,6 +414,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:51:26Z"
+    "logs_latest_update": "2026-04-10T13:00:34Z"
   }
 }
