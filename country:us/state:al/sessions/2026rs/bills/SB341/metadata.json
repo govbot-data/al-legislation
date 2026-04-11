@@ -75,6 +75,16 @@
       }
     },
     {
+      "description": "Carnley motion to Concur In and Adopt Conference Committee Report - Adopted Roll Call 1296",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:47:49Z"
+      }
+    },
+    {
       "description": "Senate Concurs in Conference Committee Report (Conference Committee on SB341)",
       "date": "2026-04-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -355,6 +365,17 @@
       "classification": ""
     },
     {
+      "note": "Senate Concurs in Conference Committee Report",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/CXNSLQQ-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Motion to Adopt - Adopted Roll Call 1222",
       "links": [
         {
@@ -429,6 +450,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T13:00:34Z"
+    "logs_latest_update": "2026-04-11T12:47:49Z"
   }
 }
